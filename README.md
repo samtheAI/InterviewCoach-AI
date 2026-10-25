@@ -2,6 +2,8 @@
 
 InterviewOS is a voice-first AI interview coach built with Streamlit and Groq. Paste a job description, choose an interview style, and practice a realistic interview with spoken questions, voice transcription, evidence-based scoring, and a final readiness report.
 
+**Live app:** [interviewos-ai-coach.streamlit.app](https://interviewos-ai-coach.streamlit.app/)
+
 ## Features
 
 - Job-description-aware questions that adapt to earlier answers
